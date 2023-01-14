@@ -1,0 +1,86 @@
+.homeBak
+{
+    background-image: url(../assets/desktop-wallpaper-pokeball-background-epic-pokeball-pokeball-shadow-the-hedgehog-and-pokemon-pokeball-minimal-pokeball-thumbnail.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakOne
+{
+    background-image: url(../assets/394697.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bakTwo
+{
+    background-image: url(../assets/119278.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakThree
+{
+    background-image: url(../assets/Btm5JR.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakFour
+{
+    background-image: url(../assets/thumb-1920-119130.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakFive
+{
+    background-image: url(../assets/pokemon-mew-fractalius-video-games-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakSix
+{
+    background-image: url(../assets/jigglypuff-anime-black-background-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakSeven
+{
+    background-image: url(../assets/394804.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakEight
+{
+    background-image: url(../assets/background-bayleef-black-fractalius-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bakNine
+{
+    background-image: url(../assets/thumb-1920-119283.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pText
+{
+    -webkit-text-fill-color: whitesmoke;
+}
+.tText
+{
+    -webkit-text-fill-color: red;
+}
+.tBG , .oneB
+{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    border-width:thick;
+    border-style:double;
+    
+}
+input
+{
+    width: 30%;
+}
+
+.madOne
+{
+    justify-items: self-end;
+}
