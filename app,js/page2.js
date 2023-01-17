@@ -39,8 +39,8 @@ function helloApi(firstNumberInput, secondNumberInput){
     var letters = /^[0-9]+$/;
     if(firstNumberInput.value.match(letters)&& secondNumberInput.value.match(letters)){
         savedInput = firstNumberInput.value;
-        savedInputTwo = secondNumberInput.value;
-        sayHelloUrl = "https://allforonewebapielizarxavier.azurewebsites.net/AllForOne/adding/" + savedInput + "/" + savedInputTwo;
+        savedInputTwo = secondNumberInput.value;"https://allforonewebapielizarxavier.azurewebsites.net/AllForOne/adding/"
+        sayHelloUrl =  + savedInput + "/" + savedInputTwo;
         urlCall(sayHelloUrl)
     }else{
         numberReturn.textContent = "enter a valid response";
